@@ -1,5 +1,5 @@
 import appstorebutton from './download-on-appstore-borderless.png';
-import logo from './leaveylabs-icebear.png';
+import logo from './leaveylabs-icebear-clear.png';
 import './App.css';
 import { Link } from "react-router-dom";
 
@@ -10,7 +10,7 @@ function LandingPage() {
         <h4></h4>        <h4></h4>
         <h4></h4>
 
-        <img src={logo} alt="people n dots" className='App-logo'/>
+        <img src={logo} alt="leavey labs logo" className='App-logo'/>
        
         <h6>
           Technology for Social Good
