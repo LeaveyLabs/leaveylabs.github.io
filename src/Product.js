@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from 'react'
 import ReactMarkdown from 'react-markdown'
-import privacyPath from './privacy.md'
+import termsPath from './cleanmessage.md'
 
-function Privacy() {
+function Product() {
   const [postMarkdown, setPostMarkdown] = useState('');
 
   // useEffect with an empty dependency array (`[]`) runs only once
   useEffect(() => {
-    fetch(privacyPath)
+    fetch(termsPath)
       .then((response) => response.text())
       .then((text) => {
         // Logs a string of Markdown content.
@@ -26,4 +26,4 @@ function Privacy() {
   );
 }
 
-export default Privacy;
+export default Product;

@@ -1,4 +1,3 @@
-import appstorebutton from './download-on-appstore-borderless.png';
 import logo from './leaveylabs-icebear-clear.png';
 import './App.css';
 import { Link } from "react-router-dom";
@@ -11,7 +10,6 @@ function LandingPage() {
         <h4></h4>
 
         <img src={logo} alt="leavey labs logo" className='App-logo'/>
-       
         <h6>
           Technology for Social Good
         </h6>
@@ -20,7 +18,7 @@ function LandingPage() {
       </header>
 
       <header className="App-footer">
-        <Link  to={{pathname: '/faq'}}>Clean Message</Link>
+        <Link  to={{pathname: '/cleanmessage'}}>Clean Message</Link>
         <a href="https://github.com/LeaveyLabs" target="_blank" rel="noopener noreferrer" >Github</a>
         <a href="mailto:leaveylabs@gmail.com" target="_blank" rel="noopener noreferrer" >Contact</a>
       </header>
