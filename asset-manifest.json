@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/leaveylabs.github.io/static/css/main.59fa6220.css",
-    "main.js": "/leaveylabs.github.io/static/js/main.496ebefc.js",
-    "static/js/787.46941811.chunk.js": "/leaveylabs.github.io/static/js/787.46941811.chunk.js",
-    "static/media/MPLUSRounded1c-Bold.ttf": "/leaveylabs.github.io/static/media/MPLUSRounded1c-Bold.3af364429e77ffd9fb2d.ttf",
-    "static/media/MPLUSRounded1c-Medium.ttf": "/leaveylabs.github.io/static/media/MPLUSRounded1c-Medium.84b104e7bd5d1ad98d5d.ttf",
-    "static/media/MPLUSRounded1c-Regular.ttf": "/leaveylabs.github.io/static/media/MPLUSRounded1c-Regular.a6e3080ac0a8e6ca12b4.ttf",
-    "static/media/5.5ss-1.jpg": "/leaveylabs.github.io/static/media/5.5ss-1.95e189eba2ff0de4c0c4.jpg",
-    "static/media/5.5ss-3.jpg": "/leaveylabs.github.io/static/media/5.5ss-3.a8e30fd5372385705029.jpg",
-    "static/media/5.5ss-2.jpg": "/leaveylabs.github.io/static/media/5.5ss-2.b21d278ede89d9594659.jpg",
-    "static/media/leaveylabs-icebear-clear.png": "/leaveylabs.github.io/static/media/leaveylabs-icebear-clear.96e1a6e7b5962e03711a.png",
-    "static/media/download-on-appstore.svg": "/leaveylabs.github.io/static/media/download-on-appstore.969642b47a537eefe45f64aaa42f530b.svg",
-    "index.html": "/leaveylabs.github.io/index.html",
-    "static/media/cleanmessage.md": "/leaveylabs.github.io/static/media/cleanmessage.99513febd83e5e9d9f09.md",
-    "main.59fa6220.css.map": "/leaveylabs.github.io/static/css/main.59fa6220.css.map",
-    "main.496ebefc.js.map": "/leaveylabs.github.io/static/js/main.496ebefc.js.map",
-    "787.46941811.chunk.js.map": "/leaveylabs.github.io/static/js/787.46941811.chunk.js.map"
+    "main.css": "/static/css/main.b31debf7.css",
+    "main.js": "/static/js/main.ae745189.js",
+    "static/js/787.46941811.chunk.js": "/static/js/787.46941811.chunk.js",
+    "static/media/MPLUSRounded1c-Bold.ttf": "/static/media/MPLUSRounded1c-Bold.3af364429e77ffd9fb2d.ttf",
+    "static/media/MPLUSRounded1c-Medium.ttf": "/static/media/MPLUSRounded1c-Medium.84b104e7bd5d1ad98d5d.ttf",
+    "static/media/MPLUSRounded1c-Regular.ttf": "/static/media/MPLUSRounded1c-Regular.a6e3080ac0a8e6ca12b4.ttf",
+    "static/media/5.5ss-1.jpg": "/static/media/5.5ss-1.95e189eba2ff0de4c0c4.jpg",
+    "static/media/5.5ss-3.jpg": "/static/media/5.5ss-3.a8e30fd5372385705029.jpg",
+    "static/media/5.5ss-2.jpg": "/static/media/5.5ss-2.b21d278ede89d9594659.jpg",
+    "static/media/leaveylabs-icebear-clear.png": "/static/media/leaveylabs-icebear-clear.96e1a6e7b5962e03711a.png",
+    "static/media/download-on-appstore.svg": "/static/media/download-on-appstore.969642b47a537eefe45f64aaa42f530b.svg",
+    "index.html": "/index.html",
+    "static/media/cleanmessage.md": "/static/media/cleanmessage.99513febd83e5e9d9f09.md",
+    "main.b31debf7.css.map": "/static/css/main.b31debf7.css.map",
+    "main.ae745189.js.map": "/static/js/main.ae745189.js.map",
+    "787.46941811.chunk.js.map": "/static/js/787.46941811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59fa6220.css",
-    "static/js/main.496ebefc.js"
+    "static/css/main.b31debf7.css",
+    "static/js/main.ae745189.js"
   ]
 }
