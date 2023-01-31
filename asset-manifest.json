@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/leaveylabs.github.io/static/css/main.72cd9c94.css",
+    "main.js": "/leaveylabs.github.io/static/js/main.34008967.js",
+    "static/js/787.6103b9e5.chunk.js": "/leaveylabs.github.io/static/js/787.6103b9e5.chunk.js",
+    "static/media/leaveylabs-icebear.png": "/leaveylabs.github.io/static/media/leaveylabs-icebear.1172c7276d42c5949440.png",
+    "static/media/download-on-appstore-borderless.png": "/leaveylabs.github.io/static/media/download-on-appstore-borderless.27fa6dab176555a6d473.png",
+    "static/media/faq.md": "/leaveylabs.github.io/static/media/faq.87b36a44c99d59fcbff6.md",
+    "static/media/privacy.md": "/leaveylabs.github.io/static/media/privacy.6ff365fb484f4c256f1d.md",
+    "static/media/terms.md": "/leaveylabs.github.io/static/media/terms.546441e56e6757742c4a.md",
+    "index.html": "/leaveylabs.github.io/index.html",
+    "static/media/privacy-policy.svg": "/leaveylabs.github.io/static/media/privacy-policy.82ef06ac9791c7ddbc4a4d8a935c0094.svg",
+    "main.72cd9c94.css.map": "/leaveylabs.github.io/static/css/main.72cd9c94.css.map",
+    "main.34008967.js.map": "/leaveylabs.github.io/static/js/main.34008967.js.map",
+    "787.6103b9e5.chunk.js.map": "/leaveylabs.github.io/static/js/787.6103b9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72cd9c94.css",
+    "static/js/main.34008967.js"
+  ]
+}
