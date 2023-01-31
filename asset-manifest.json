@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.72cd9c94.css",
-    "main.js": "/static/js/main.c8791895.js",
-    "static/js/787.6103b9e5.chunk.js": "/static/js/787.6103b9e5.chunk.js",
-    "static/media/leaveylabs-icebear-clear.png": "/static/media/leaveylabs-icebear-clear.96e1a6e7b5962e03711a.png",
-    "index.html": "/index.html",
-    "static/media/cleanmessage.md": "/static/media/cleanmessage.45f77c7783d0edb24529.md",
-    "main.72cd9c94.css.map": "/static/css/main.72cd9c94.css.map",
-    "main.c8791895.js.map": "/static/js/main.c8791895.js.map",
-    "787.6103b9e5.chunk.js.map": "/static/js/787.6103b9e5.chunk.js.map"
+    "main.css": "/leaveylabs.github.io/static/css/main.72cd9c94.css",
+    "main.js": "/leaveylabs.github.io/static/js/main.fe99f1ee.js",
+    "static/js/787.6103b9e5.chunk.js": "/leaveylabs.github.io/static/js/787.6103b9e5.chunk.js",
+    "static/media/leaveylabs-icebear-clear.png": "/leaveylabs.github.io/static/media/leaveylabs-icebear-clear.96e1a6e7b5962e03711a.png",
+    "index.html": "/leaveylabs.github.io/index.html",
+    "static/media/cleanmessage.md": "/leaveylabs.github.io/static/media/cleanmessage.45f77c7783d0edb24529.md",
+    "main.72cd9c94.css.map": "/leaveylabs.github.io/static/css/main.72cd9c94.css.map",
+    "main.fe99f1ee.js.map": "/leaveylabs.github.io/static/js/main.fe99f1ee.js.map",
+    "787.6103b9e5.chunk.js.map": "/leaveylabs.github.io/static/js/787.6103b9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72cd9c94.css",
-    "static/js/main.c8791895.js"
+    "static/js/main.fe99f1ee.js"
   ]
 }
