@@ -1,7 +1,17 @@
-/* @font-face {
-  font-family: "ChivoMono";
-  src: url(../public/ChivoMono-VariableFont_wght.ttf) 
-} */
+@font-face {
+  font-family: "AppFontRegular";
+  src: url(../public/MPLUSRounded1c-Regular.ttf);
+}
+
+@font-face {
+  font-family: "AppFontMedium";
+  src: url(../public/MPLUSRounded1c-Medium.ttf);
+}
+
+@font-face {
+  font-family: "AppFontBold";
+  src: url(../public/MPLUSRounded1c-Bold.ttf);
+}
 
 
 /* html, body, body > div, .app {
@@ -9,11 +19,13 @@
   width: 100%;
 } */
 
+* {
+  font-family: 'AppFontRegular';
+}
+
 .App {
   background-color: white;
   text-align: center;
-  font-family: 'ChivoMono';
-  font-variation-settings: "wght" 500;
 }
 
 .App-logo {
@@ -33,10 +45,10 @@
 
 .Privacy-header {
   min-height: 90vh;
-  display: flex;
-  flex-direction: column;
-  align-items: left;
-  justify-content: left;
+  /* display: flex; */
+  /* flex-direction: column; */
+  align-items: center;
+  /* justify-content: center; */
   font-size: calc(5px + 2vmin);
   color: black;
   max-width: 60vh;
@@ -116,7 +128,7 @@ h4 {
 }
 
 p {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family:'AppFontRegular';
   color: black;
   opacity: 0.7;
   font-size: large;

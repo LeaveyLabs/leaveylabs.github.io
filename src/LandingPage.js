@@ -10,9 +10,9 @@ function LandingPage() {
         <h4></h4>
 
         <img src={logo} alt="leavey labs logo" className='App-logo'/>
-        <h6>
-          Technology for Social Good
-        </h6>
+        <p>
+        Apps for Social Good
+        </p>
 
         <h4></h4>
       </header>
