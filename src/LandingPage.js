@@ -18,7 +18,7 @@ function LandingPage() {
       </header>
 
       <header className="App-footer">
-        <Link  to={{pathname: '/cleanmessage'}}>Clean Message</Link>
+        {/* <Link  to={{pathname: '/cleanmessage'}}>Clean Message</Link> */}
         <a href="https://github.com/LeaveyLabs" target="_blank" rel="noopener noreferrer" >Github</a>
         <a href="mailto:leaveylabs@gmail.com" target="_blank" rel="noopener noreferrer" >Contact</a>
       </header>
