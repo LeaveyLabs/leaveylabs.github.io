@@ -9,9 +9,9 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route path="/" element={<LandingPage />} />
-          <Route path="/cleanmessage" element={<ProductPage />} />
-          <Route path="/cleanmessage/download" element={<RedirectPage />} />
+          <Route path="/" element={<RedirectPage />} />
+          {/* <Route path="/cleanmessage" element={<ProductPage />} />
+          <Route path="/cleanmessage/download" element={<RedirectPage />} /> */}
         </Routes>
       </Router>
     </div>
