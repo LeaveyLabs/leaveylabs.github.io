@@ -19,7 +19,7 @@ function LandingPage() {
 
       <header className="App-footer">
         {/* <Link  to={{pathname: '/cleanmessage'}}>Clean Message</Link> */}
-        <a href="https://github.com/LeaveyLabs" target="_blank" rel="noopener noreferrer" >Github</a>
+        <a href="https://apps.apple.com/us/developer/leavey-labs-inc/id1631422938" target="_blank" rel="noopener noreferrer" >Apps</a>
         <a href="mailto:leaveylabs@gmail.com" target="_blank" rel="noopener noreferrer" >Contact</a>
       </header>
     </div>
